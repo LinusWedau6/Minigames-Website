@@ -1,1 +1,1 @@
-# Minigame-Website
+# Minigames-Website
